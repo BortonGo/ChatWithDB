@@ -1,0 +1,179 @@
+[SEND] LOGIN
+
+[SEND] Ghost
+
+[SEND] 1775
+
+[RECV] Welcome, Ghost!
+[SEND] 1
+
+[SEND] @Boba Hi, Boba!
+
+[SEND] 
+
+[SEND] 1
+
+[SEND] @boba hi
+
+[SEND] 
+
+[SEND] 3
+
+[SEND] LOGIN
+
+[SEND] boba
+
+[SEND] 1431
+
+[SEND] LOGIN
+
+[SEND] Liza
+
+[SEND] 1431
+
+[RECV] Ошибка: неправильный логин или пароль.
+[SEND] LOGIN
+
+[SEND] Boba
+
+[SEND] 123
+
+[RECV] Welcome, Boba!
+[SEND] 2
+
+[RECV] === Входящие сообщения ===
+[RECV] [8] [2025-08-04 08:45:55] Ghost: Hi, Boba!
+[RECV] [6] [2025-07-17 13:13:13] Ghost: 123
+[RECV] [5] [2025-07-17 13:10:23] Ghost: hi
+[RECV] [4] [2025-07-17 13:02:34] Ghost: hi
+[RECV] [3] [2025-07-17 12:59:40] Ghost: Privet
+[RECV] __END__
+[SEND] LOGIN
+
+[SEND] Liza
+
+[SEND] 111
+
+[RECV] Welcome, Liza!
+[SEND] 2
+
+[RECV] === Входящие сообщения ===
+[RECV] [9] [2025-08-04 08:52:38] Ghost: 111
+[RECV] __END__
+[SEND] LOGIN
+
+[SEND] Liza
+
+[SEND] 111
+
+[RECV] Welcome, Liza!
+[SEND] 1
+
+[SEND] @Ghost hi
+
+[SEND] 
+
+[SEND] 3
+
+[RECV] Пользователь офлайн. Сообщение сохранено.
+[SEND] LOGIN
+
+[SEND] Ghost
+
+[SEND] 1775
+
+[SEND] LOGIN
+
+[SEND] Ghost
+
+[SEND] 1775
+
+[RECV] Welcome, Ghost!
+[SEND] 3
+
+[RECV] Вы вышли из аккаунта.
+[SEND] LOGIN
+
+[SEND] Liza
+
+[SEND] 111
+
+[RECV] Welcome, Liza!
+[SEND] 1
+
+[SEND] @Boba 123456
+
+[SEND] 
+
+[SEND] 3
+
+[RECV] Пользователь офлайн. Сообщение сохранено.
+[SEND] LOGIN
+
+[SEND] Ghost
+
+[SEND] 1775
+
+[SEND] LOGIN
+
+[SEND] Ghost
+
+[SEND] 1775
+
+[RECV] Welcome, Ghost!
+[SEND] 1
+
+[SEND] @Boba 123
+
+[SEND] 
+
+[SEND] 3
+
+[RECV] Пользователь офлайн. Сообщение сохранено.
+[SEND] LOGIN
+
+[SEND] Boba
+
+[SEND] 123
+
+[SEND] LOGIN
+
+[SEND] Ghost
+
+[SEND] 1775
+
+[RECV] Welcome, Ghost!
+[SEND] 1
+
+[SEND] @Boba bb
+
+[RECV] Неизвестная команда.
+[SEND] 3
+
+[RECV] Сообщение доставлено онлайн.
+[SEND] LOGIN
+
+[SEND] Boba
+
+[SEND] 123
+
+[SEND] LOGIN
+
+[SEND] Ghost
+
+[SEND] 1775
+
+[RECV] Welcome, Ghost!
+[SEND] LOGIN
+
+[SEND] Ghost
+
+[SEND] 1775
+
+[SEND] LOGIN
+
+[SEND] Liza
+
+[SEND] 123
+
+[RECV] Ошибка: неправильный логин или пароль.

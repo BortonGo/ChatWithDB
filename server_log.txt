@@ -1,0 +1,15 @@
+[LOGIN] Ghost вошел в чат.
+[SEND] Ghost -> Boba: Hi, Boba!
+[FAILED LOGIN] ѕопытка входа с логином: 'Liza' и паролем: '1431'
+[LOGIN] Boba вошел в чат.
+[LOGIN] Liza вошел в чат.
+[SEND] Liza -> Ghost: hi
+[LOGIN] Ghost вошел в чат.
+[LOGIN] Ghost вошел в чат.
+[LOGOUT] Ghost вышел из аккаунта.
+[LOGIN] Liza вошел в чат.
+[SEND] Liza -> Boba: 123456
+[LOGIN] Ghost вошел в чат.
+[LOGIN] Ghost вошел в чат.
+[SEND] Ghost -> Boba: 123
+[LOGIN] Boba вошел в чат.
